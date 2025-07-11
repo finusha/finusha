@@ -1,7 +1,7 @@
 ## hellowwwwwwwwwwwwwwwwwwwwwwwww 
 i code 💻  
 sometimes 🤷  
-maybe 🧃  
+mayybe 🧃  
 
 ![cat jammin](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
