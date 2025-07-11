@@ -1,7 +1,6 @@
-## hellowwwwwwwwwwwwwwwwwwwwwwwww 
-i code 💻  
-sometimes 🤷  
-mayybe 🧃  
+## heyyyyyyyyyyyyyyyyyyy!!!!!!
+i code sometimes  
+ 
 
 ![funny gif](https://pa1.aminoapps.com/7594/de2ec9c8e8771ef029f1f553b1006e00293dce90r1-590-590_hq.gif)
 
