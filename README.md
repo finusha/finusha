@@ -3,7 +3,7 @@ i code 💻
 sometimes 🤷  
 mayybe 🧃  
 
-![cat jammin](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![funny gif](https://pa1.aminoapps.com/7594/de2ec9c8e8771ef029f1f553b1006e00293dce90r1-590-590_hq.gif)
 
 
 <!--
