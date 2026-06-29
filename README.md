@@ -1,6 +1,8 @@
 
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Finusha&text2=hey...%20I%20code%20sometimes&width=900&height=400)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=hey%20i'm%20Finusha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+</div>
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=finusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
