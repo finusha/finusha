@@ -15,7 +15,9 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=finusha&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=finusha&show_icons=true&theme=dark&locale=en&hide_border=false&custom_title=Finusha's+GitHub+Stats" alt="profile-radme-generator" />
+
 
 
 
@@ -26,5 +28,3 @@
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=finusha&theme=dark&hide_border=false" alt="profile-radme-generator" />
 
 
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=finusha&show_icons=true&theme=dark&locale=en&hide_border=false&custom_title=Finusha's+GitHub+Stats" alt="profile-radme-generator" />
