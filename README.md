@@ -28,8 +28,8 @@
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=finusha&theme=dark&hide_border=false" alt="profile-radme-generator" />
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=finusha&show_icons=true&theme=tokyonight&locale=en&hide_border=false&custom_title=Finusha's+GitHub+Stats" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=finusha&show_icons=true&theme=cobalt&locale=en&hide_border=false&custom_title=Finusha's+GitHub+Stats" alt="profile-radme-generator" />
 
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=finusha&theme=cobalt&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=finusha&theme=tokyonight&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=finusha&theme=cobalt&hide_border=false" alt="profile-radme-generator" />
