@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=280&section=header&text=hey%20i'm%20Finusha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
 </div>
@@ -23,5 +21,9 @@
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=finusha&bg_color=00000000&title_color=2188FF&text_color=79C0FF&border_color=2188FF&hide_border=false" alt="profile-radme-generator" />
 
+<br clear="left"/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer" />
+</div>
 
