@@ -8,8 +8,8 @@
 
 
 
-<a href="https://committers.top/sri_lanka.html">
-<img src="https://img.shields.io/badge/Committers%20Top%20Rank-Sri%20Lanka%20%23125%20(public%20commits)-16a34a?style=flat&logo=github&logoColor=white&labelColor=111827" />
+<a href="https://committers.top/sri_lanka_public/finusha">
+  <img src="https://user-badge.committers.top/sri_lanka_public/finusha.svg?color=16a34a" />
 </a>
 
 <img src="https://img.shields.io/badge/GitHub%20Member-Since%202019-2188FF?style=flat&logo=github&logoColor=white&labelColor=111827" />
