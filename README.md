@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<a href="https://github-committers-top-rank.vercel.app/sri_lanka?user=finusha">
-  <img src="https://img.shields.io/badge/Committers%20Top%20Rank-Sri%20Lanka%20%23125%20(public%20commits)-16a34a?style=flat&logo=github&logoColor=white&labelColor=111827" />
+<a href="https://committers.top/sri_lanka.html">
+<img src="https://img.shields.io/badge/Committers%20Top%20Rank-Sri%20Lanka%20%23125%20(public%20commits)-16a34a?style=flat&logo=github&logoColor=white&labelColor=111827" />
 </a>
 
 <img src="https://img.shields.io/badge/GitHub%20Member-Since%202019-2188FF?style=flat&logo=github&logoColor=white&labelColor=111827" />
