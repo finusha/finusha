@@ -8,8 +8,8 @@
 
 
 
-<a href="https://committers.top/sri_lanka_public/finusha">
-  <img src="https://user-badge.committers.top/sri_lanka_public/finusha.svg?color=16a34a" />
+<a href="https://github-commiters-top-rank.vercel.app/sri_lanka?search=Finu&mode=contributions&user=finusha">
+  <img src="https://user-badge.committers.top/sri_lanka_public/finusha.svg" />
 </a>
 
 <img src="https://img.shields.io/badge/GitHub%20Member-Since%202019-2188FF?style=flat&logo=github&logoColor=white&labelColor=111827" />
