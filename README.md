@@ -2,9 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=280&section=header&text=hey%20i'm%20Finusha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
 </div>
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=finusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
-
 <div align="center">
+<img height="auto" src="https://komarev.com/ghpvc/?username=finusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+<br><br>
+
+
 
 <a href="https://committers.top/sri_lanka.html">
 <img src="https://img.shields.io/badge/Committers%20Top%20Rank-Sri%20Lanka%20%23125%20(public%20commits)-16a34a?style=flat&logo=github&logoColor=white&labelColor=111827" />
