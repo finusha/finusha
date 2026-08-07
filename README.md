@@ -8,7 +8,7 @@
 
 
 
-<a href="https://github-commiters-top-rank.vercel.app/sri_lanka?search=Finu&mode=contributions&user=finusha">
+<a href="https://committers.top/sri_lanka_public">
   <img src="https://user-badge.committers.top/sri_lanka_public/finusha.svg" />
 </a>
 
