@@ -29,7 +29,7 @@
 
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=finusha&theme=cobalt&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=finusha&bg_color=00000000&title_color=2188FF&text_color=79C0FF&border_color=2188FF&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats-eight-delta-63.vercel.app/api/top-langs/?username=finusha&bg_color=00000000&title_color=2188FF&text_color=79C0FF&border_color=2188FF&hide_border=false" alt="profile-radme-generator" />
 
 <br clear="left"/>
 
