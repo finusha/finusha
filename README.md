@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="center">Now playing on Spotify 🎧</h3>
+
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ww9kqznypcohz41uni03ua71r&amp;redirect=true">
