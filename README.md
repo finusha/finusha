@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img height="auto" src="https://komarev.com/ghpvc/?username=finusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+<img height="auto" src="https://komarev.com/ghpvc/?username=finusha&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="profile-radme-generator" />
 <br><br>
 
 
