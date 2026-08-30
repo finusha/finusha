@@ -17,20 +17,15 @@
 </div>
 
 
-
-<br><br>
-
 <div align="center">
 
 ### Now playing on Spotify 🎧
 
-<a href="https://open.spotify.com/">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ww9kqznypcohz41uni03ua71r&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ww9kqznypcohz41uni03ua71r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=4e6cb1" />
 </a>
 
 </div>
-
-<br><br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer" />
